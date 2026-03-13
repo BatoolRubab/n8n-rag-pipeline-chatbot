@@ -5,6 +5,7 @@ A fully automated **Retrieval-Augmented Generation (RAG)** pipeline and AI chatb
 ---
 
 ## 📸 Workflow Screenshot
+![RAG Pipeline](./workflow-screenshot.png)
 
 ---
 

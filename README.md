@@ -4,11 +4,6 @@ A fully automated **Retrieval-Augmented Generation (RAG)** pipeline and AI chatb
 
 ---
 
-## 📸 Workflow Screenshot
-![RAG Pipeline](./workflow-screenshot.png)
-
----
-
 ## ✨ Features
 
 - 📂 **Auto document ingestion** — triggers when a new file is added to Google Drive

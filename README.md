@@ -79,8 +79,6 @@ Model            ↓
 2. **Import workflows into n8n**
    - Open your n8n instance
    - Go to **Workflows** → **Import from file**
-   - Import `ingestion-pipeline.json`
-   - Import `chatbot-workflow.json`
 
 3. **Set up credentials in n8n**
    - Add your **OpenAI API key** under Credentials
